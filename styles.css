@@ -1,3 +1,6 @@
-.contact-container{
-    border: 2px solid red;
+body {
+  background-color: red;
 }
+body .contact-container {
+  background-color: blue;
+}/*# sourceMappingURL=styles.css.map */
