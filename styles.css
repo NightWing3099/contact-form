@@ -1,6 +1,9 @@
 body {
-  background-color: red;
+  background-color: #86A2A5;
+  font-family: Karla, sans-serif;
 }
 body .contact-container {
   background-color: blue;
+  height: 500px;
+  width: 500px;
 }/*# sourceMappingURL=styles.css.map */
