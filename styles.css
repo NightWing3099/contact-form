@@ -4,8 +4,12 @@ body {
   align-items: center;
 }
 body .contact-container {
-  background-color: blue;
+  background-color: white;
   height: 500px;
   width: 500px;
   border-radius: 10px;
+  margin: 50px 0px 0px 450px;
+}
+body .contact-container h1 {
+  font-size: 20px;
 }/*# sourceMappingURL=styles.css.map */
