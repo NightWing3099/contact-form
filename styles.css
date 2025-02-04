@@ -24,7 +24,11 @@ body .contact-container .form-container #contact-form .first-input {
   display: flex;
   border: solid red 2px;
   flex-direction: row;
-  width: 400px;
+  width: 495px;
+  font-size: 16px;
+}
+body .contact-container .form-container #contact-form .first-input #name1 {
+  margin-right: x;
 }
 body .attribution {
   text-align: center;
