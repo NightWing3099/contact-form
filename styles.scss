@@ -33,10 +33,14 @@ body{
                     height: 70px;
                     margin-bottom: 50px;
 
+                    #first{
+                        margin-left: 5px;
+                    }
+
                     #name1{
                         margin-right: 30px;
                         border-radius: 8px;
-                        border: black solid 1px;
+                        border: hsl(186, 15%, 59%) solid 1px;
                         padding: 10px;
                         margin-top: 10px;
                         margin-left: 5px;
@@ -48,11 +52,16 @@ body{
 
                     #name2{
                         padding: 10px;
-                        border: black solid 1px;
+                        border: hsl(186, 15%, 59%) solid 1px;
                         border-radius: 8px;
                         margin-left: 50px;
                         margin-top: 10px;
                     }
+                }
+
+                .email{
+                    border: solid blue 2px;
+                    width: 500px;
                 }
             }
         }

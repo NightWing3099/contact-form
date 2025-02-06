@@ -29,10 +29,13 @@ body .contact-container .form-container #contact-form .first-input {
   height: 70px;
   margin-bottom: 50px;
 }
+body .contact-container .form-container #contact-form .first-input #first {
+  margin-left: 5px;
+}
 body .contact-container .form-container #contact-form .first-input #name1 {
   margin-right: 30px;
   border-radius: 8px;
-  border: black solid 1px;
+  border: hsl(186, 15%, 59%) solid 1px;
   padding: 10px;
   margin-top: 10px;
   margin-left: 5px;
@@ -42,10 +45,14 @@ body .contact-container .form-container #contact-form .first-input #last-name {
 }
 body .contact-container .form-container #contact-form .first-input #name2 {
   padding: 10px;
-  border: black solid 1px;
+  border: hsl(186, 15%, 59%) solid 1px;
   border-radius: 8px;
   margin-left: 50px;
   margin-top: 10px;
+}
+body .contact-container .form-container #contact-form .email {
+  border: solid blue 2px;
+  width: 500px;
 }
 body .attribution {
   text-align: center;
