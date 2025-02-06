@@ -31,10 +31,11 @@ body{
                     width: 495px;
                     font-size: 16px;
                     height: 70px;
-                    margin-bottom: 50px;
+                    margin-bottom: 30px;
 
                     #first{
                         margin-left: 5px;
+                        font-weight: 600;
                     }
 
                     #name1{
@@ -48,6 +49,7 @@ body{
 
                     #last-name{
                         margin-left: 50px;
+                        font-weight: 600;
                     }
 
                     #name2{
@@ -61,11 +63,14 @@ body{
 
                 .email{
                     border: solid blue 2px;
-                    height: 50px;
+                    height: 70px;
                     width: 500px;
 
-                    .email-label{
-                        margin-bottom: 15px;
+                    #email{
+                        margin-top: 10px;
+                        width: 97%;
+                        border: hsl(186, 15%, 59%) 1px solid; 
+                        padding: 6px;
                     }
                 }
             }
