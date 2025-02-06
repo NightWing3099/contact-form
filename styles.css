@@ -56,6 +56,7 @@ body .contact-container .form-container #contact-form .email {
   border: solid blue 2px;
   height: 70px;
   width: 500px;
+  font-weight: 600;
 }
 body .contact-container .form-container #contact-form .email #email {
   margin-top: 10px;
