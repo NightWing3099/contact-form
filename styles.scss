@@ -74,6 +74,14 @@ body{
                         padding: 6px;
                     }
                 }
+
+                .radio-section{
+                    border: solid green 2px;
+                    display: flex;
+                    width: 500px;
+                    margin-top: 25px;
+                    flex-direction: row;
+                }
             }
         }
     }

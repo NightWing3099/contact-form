@@ -64,6 +64,13 @@ body .contact-container .form-container #contact-form .email #email {
   border: hsl(186, 15%, 59%) 1px solid;
   padding: 6px;
 }
+body .contact-container .form-container #contact-form .radio-section {
+  border: solid green 2px;
+  display: flex;
+  width: 500px;
+  margin-top: 25px;
+  flex-direction: row;
+}
 body .attribution {
   text-align: center;
   margin-top: 30px;
