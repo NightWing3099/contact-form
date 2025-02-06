@@ -26,9 +26,25 @@ body .contact-container .form-container #contact-form .first-input {
   flex-direction: row;
   width: 495px;
   font-size: 16px;
+  height: 70px;
+  margin-bottom: 50px;
 }
 body .contact-container .form-container #contact-form .first-input #name1 {
   margin-right: 30px;
+  border-radius: 8px;
+  border: black solid 1px;
+  padding: 10px;
+  margin-top: 10px;
+}
+body .contact-container .form-container #contact-form .first-input #last-name {
+  margin-left: 50px;
+}
+body .contact-container .form-container #contact-form .first-input #name2 {
+  padding: 10px;
+  border: black solid 1px;
+  border-radius: 8px;
+  margin-left: 50px;
+  margin-top: 10px;
 }
 body .attribution {
   text-align: center;
