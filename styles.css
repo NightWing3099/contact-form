@@ -63,6 +63,7 @@ body .contact-container .form-container #contact-form .email #email {
   width: 97%;
   border: hsl(186, 15%, 59%) 1px solid;
   padding: 6px;
+  border-radius: 8px;
 }
 body .contact-container .form-container #contact-form .radio-section {
   border: solid green 2px;
@@ -76,10 +77,11 @@ body .contact-container .form-container #contact-form .radio-section .one {
   margin-left: 25px;
   margin-right: 25px;
   border: solid 1px hsl(186, 15%, 59%);
+  border-radius: 8px;
 }
 body .contact-container .form-container #contact-form .radio-section .two {
   border: solid 1px hsl(186, 15%, 59%);
-  margin-left: 20px;
+  border-radius: 8px;
 }
 body .contact-container .form-container #contact-form .radio-section #choice1 {
   margin-left: 10px;
