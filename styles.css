@@ -68,8 +68,17 @@ body .contact-container .form-container #contact-form .radio-section {
   border: solid green 2px;
   display: flex;
   width: 500px;
+  height: 50px;
   margin-top: 25px;
   flex-direction: row;
+}
+body .contact-container .form-container #contact-form .radio-section .one {
+  border: red solid 1px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+body .contact-container .form-container #contact-form .radio-section .two {
+  border: blue solid 1px;
 }
 body .contact-container .form-container #contact-form .radio-section #choice1 {
   margin-left: 10px;
