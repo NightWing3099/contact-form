@@ -73,12 +73,13 @@ body .contact-container .form-container #contact-form .radio-section {
   flex-direction: row;
 }
 body .contact-container .form-container #contact-form .radio-section .one {
-  border: red solid 1px;
   margin-left: 25px;
   margin-right: 25px;
+  border: solid 1px hsl(186, 15%, 59%);
 }
 body .contact-container .form-container #contact-form .radio-section .two {
-  border: blue solid 1px;
+  border: solid 1px hsl(186, 15%, 59%);
+  margin-left: 20px;
 }
 body .contact-container .form-container #contact-form .radio-section #choice1 {
   margin-left: 10px;
