@@ -78,6 +78,7 @@ body .contact-container .form-container #contact-form .radio-section .one {
   margin-right: 25px;
   border: solid 1px hsl(186, 15%, 59%);
   border-radius: 8px;
+  height: 25px;
 }
 body .contact-container .form-container #contact-form .radio-section .two {
   border: solid 1px hsl(186, 15%, 59%);
