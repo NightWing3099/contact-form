@@ -75,7 +75,11 @@ body .contact-container .form-container #contact-form .radio-section {
   flex-direction: row;
 }
 body .contact-container .form-container #contact-form .radio-section .query-select {
-  font-size: 15px;
+  border: 1px solid black;
+  width: 120px;
+  height: 30px;
+  font-size: 18px;
+  font-weight: 600;
 }
 body .contact-container .form-container #contact-form .radio-section .one {
   margin-left: 25px;
