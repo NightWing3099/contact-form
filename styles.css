@@ -19,7 +19,6 @@ body .contact-container .form-container #contact-form {
 }
 body .contact-container .form-container #contact-form .first-input {
   display: flex;
-  border: solid red 2px;
   flex-direction: row;
   width: 495px;
   font-size: 16px;
@@ -50,11 +49,11 @@ body .contact-container .form-container #contact-form .first-input #name2 {
   margin-top: 10px;
 }
 body .contact-container .form-container #contact-form .email {
-  border: solid blue 2px;
   height: 70px;
   width: 500px;
   font-weight: 600;
   font-size: 16px;
+  margin-left: 5px;
 }
 body .contact-container .form-container #contact-form .email #email {
   margin-top: 10px;
@@ -64,7 +63,6 @@ body .contact-container .form-container #contact-form .email #email {
   border-radius: 8px;
 }
 body .contact-container .form-container #contact-form .radio-section {
-  border: solid green 2px;
   display: flex;
   width: 500px;
   height: 100px;
@@ -72,7 +70,6 @@ body .contact-container .form-container #contact-form .radio-section {
   flex-direction: row;
 }
 body .contact-container .form-container #contact-form .radio-section .query-select {
-  border: 1px solid black;
   width: 120px;
   height: 30px;
   font-size: 16px;
@@ -104,6 +101,9 @@ body .contact-container .form-container #contact-form .radio-section #choice1 {
 }
 body .contact-container .form-container #contact-form .radio-section #choice2 {
   margin-left: 20px;
+}
+body .contact-container .form-container #contact-form .message-section {
+  border: solid 2px red;
 }
 body .attribution {
   text-align: center;
