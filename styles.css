@@ -26,17 +26,17 @@ body .contact-container .form-container #contact-form .first-input {
   margin-bottom: 30px;
 }
 body .contact-container .form-container #contact-form .first-input #first {
-  margin-left: 5px;
+  margin-left: 10px;
   font-weight: 600;
 }
 body .contact-container .form-container #contact-form .first-input #name1 {
-  margin-right: 30px;
+  margin-right: 20px;
   border-radius: 8px;
   border: hsl(186, 15%, 59%) solid 1px;
   padding: 10px;
   margin-top: 10px;
   height: 22px;
-  margin-left: 5px;
+  margin-left: 10px;
 }
 body .contact-container .form-container #contact-form .first-input #last-name {
   margin-left: 50px;
@@ -55,11 +55,12 @@ body .contact-container .form-container #contact-form .email {
   width: 500px;
   font-weight: 600;
   font-size: 16px;
-  margin-left: 5px;
+  margin-left: 10px;
 }
 body .contact-container .form-container #contact-form .email #email {
   margin-top: 10px;
-  width: 97%;
+  margin-left: 2px;
+  width: 93%;
   height: 32px;
   border: hsl(186, 15%, 59%) 1px solid;
   padding: 6px;
@@ -77,6 +78,7 @@ body .contact-container .form-container #contact-form .radio-section .query-sele
   height: 30px;
   font-size: 16px;
   font-weight: 600;
+  margin-left: 12px;
 }
 body .contact-container .form-container #contact-form .radio-section .one {
   margin-top: 39px;
@@ -106,18 +108,22 @@ body .contact-container .form-container #contact-form .radio-section #choice2 {
   margin-left: 20px;
 }
 body .contact-container .form-container #contact-form .message-section {
-  width: 500px;
+  width: 470px;
   height: 170px;
 }
 body .contact-container .form-container #contact-form .message-section label {
   font-size: 16px;
+  margin-left: 18px;
   font-weight: 600;
   padding-bottom: 20px;
 }
 body .contact-container .form-container #contact-form .message-section #message {
   margin-top: 20px;
+  margin-left: 15px;
   width: 98.2%;
   height: 120px;
+  border-radius: 10px;
+  border: solid 1px hsl(186, 15%, 59%);
 }
 body .contact-container .form-container #contact-form .submit-button {
   margin-top: 15px;
