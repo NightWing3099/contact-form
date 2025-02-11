@@ -5,7 +5,7 @@ body {
 }
 body .contact-container {
   background-color: white;
-  height: 500px;
+  height: 550px;
   width: 500px;
   border-radius: 10px;
   margin: 50px 0px 0px 445px;
@@ -104,6 +104,18 @@ body .contact-container .form-container #contact-form .radio-section #choice2 {
 }
 body .contact-container .form-container #contact-form .message-section {
   border: solid 2px red;
+  width: 500px;
+  height: 130px;
+}
+body .contact-container .form-container #contact-form .message-section label {
+  font-size: 16px;
+  font-weight: 600;
+  padding-bottom: 20px;
+}
+body .contact-container .form-container #contact-form .message-section #message {
+  margin-top: 20px;
+  width: 98.2%;
+  height: 80px;
 }
 body .attribution {
   text-align: center;
