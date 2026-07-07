@@ -1,0 +1,17 @@
+{
+  "name": "contact-form",
+  "version": "1.0.0",
+  "description": "Frontend Mentor - Contact form solution",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx @tailwindcss/cli -i ./src/input.css -o ./styles.css",
+    "watch": "npx @tailwindcss/cli -i ./src/input.css -o ./styles.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^4.1.0",
+    "@tailwindcss/cli": "^4.1.0"
+  }
+}
